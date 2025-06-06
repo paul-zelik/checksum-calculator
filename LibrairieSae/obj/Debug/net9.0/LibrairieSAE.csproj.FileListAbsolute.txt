@@ -1,0 +1,14 @@
+C:\Users\bened\source\repos\sae reseaux code\bin\Debug\net9.0\LibrairieSAE.exe
+C:\Users\bened\source\repos\sae reseaux code\bin\Debug\net9.0\LibrairieSAE.deps.json
+C:\Users\bened\source\repos\sae reseaux code\bin\Debug\net9.0\LibrairieSAE.runtimeconfig.json
+C:\Users\bened\source\repos\sae reseaux code\bin\Debug\net9.0\LibrairieSAE.dll
+C:\Users\bened\source\repos\sae reseaux code\bin\Debug\net9.0\LibrairieSAE.pdb
+C:\Users\bened\source\repos\sae reseaux code\obj\Debug\net9.0\LibrairieSAE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bened\source\repos\sae reseaux code\obj\Debug\net9.0\LibrairieSAE.AssemblyInfoInputs.cache
+C:\Users\bened\source\repos\sae reseaux code\obj\Debug\net9.0\LibrairieSAE.AssemblyInfo.cs
+C:\Users\bened\source\repos\sae reseaux code\obj\Debug\net9.0\LibrairieSAE.csproj.CoreCompileInputs.cache
+C:\Users\bened\source\repos\sae reseaux code\obj\Debug\net9.0\LibrairieSAE.dll
+C:\Users\bened\source\repos\sae reseaux code\obj\Debug\net9.0\refint\LibrairieSAE.dll
+C:\Users\bened\source\repos\sae reseaux code\obj\Debug\net9.0\LibrairieSAE.pdb
+C:\Users\bened\source\repos\sae reseaux code\obj\Debug\net9.0\LibrairieSAE.genruntimeconfig.cache
+C:\Users\bened\source\repos\sae reseaux code\obj\Debug\net9.0\ref\LibrairieSAE.dll

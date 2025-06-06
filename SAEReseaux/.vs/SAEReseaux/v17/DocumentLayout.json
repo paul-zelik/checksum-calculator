@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bened\\source\\repos\\SAEReseaux\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EFBD9-9001-4036-B1EE-EF3A87C2E020}|SAEReseaux.csproj|c:\\users\\bened\\source\\repos\\saereseaux\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8EFBD9-9001-4036-B1EE-EF3A87C2E020}|SAEReseaux.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EFBD9-9001-4036-B1EE-EF3A87C2E020}|SAEReseaux.csproj|C:\\Users\\bened\\source\\repos\\SAEReseaux\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A8EFBD9-9001-4036-B1EE-EF3A87C2E020}|SAEReseaux.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EFBD9-9001-4036-B1EE-EF3A87C2E020}|SAEReseaux.csproj|c:\\users\\bened\\source\\repos\\saereseaux\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8EFBD9-9001-4036-B1EE-EF3A87C2E020}|SAEReseaux.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF6655-BB8D-5CA5-DC9D-275FAC273948}|..\\sae reseaux code\\LibrairieSAE.csproj|c:\\users\\bened\\source\\repos\\sae reseaux code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF6655-BB8D-5CA5-DC9D-275FAC273948}|..\\sae reseaux code\\LibrairieSAE.csproj|c:\\users\\bened\\source\\repos\\sae reseaux code\\librairiesae.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EFBD9-9001-4036-B1EE-EF3A87C2E020}|SAEReseaux.csproj|c:\\users\\bened\\source\\repos\\saereseaux\\saereseaux.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A8EFBD9-9001-4036-B1EE-EF3A87C2E020}|SAEReseaux.csproj|solutionrelative:saereseaux.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8EFBD9-9001-4036-B1EE-EF3A87C2E020}|SAEReseaux.csproj|c:\\users\\bened\\source\\repos\\saereseaux\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8EFBD9-9001-4036-B1EE-EF3A87C2E020}|SAEReseaux.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 123,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bened\\source\\repos\\sae reseaux code\\Program.cs",
+              "RelativeDocumentMoniker": "..\\sae reseaux code\\Program.cs",
+              "ToolTip": "C:\\Users\\bened\\source\\repos\\sae reseaux code\\Program.cs",
+              "RelativeToolTip": "..\\sae reseaux code\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:39:59.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bened\\source\\repos\\SAEReseaux\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\bened\\source\\repos\\SAEReseaux\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:39:16.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SAEReseaux.csproj",
+              "DocumentMoniker": "C:\\Users\\bened\\source\\repos\\SAEReseaux\\SAEReseaux.csproj",
+              "RelativeDocumentMoniker": "SAEReseaux.csproj",
+              "ToolTip": "C:\\Users\\bened\\source\\repos\\SAEReseaux\\SAEReseaux.csproj",
+              "RelativeToolTip": "SAEReseaux.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T10:38:41.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bened\\source\\repos\\SAEReseaux\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\bened\\source\\repos\\SAEReseaux\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:43:31.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\bened\\source\\repos\\SAEReseaux\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\bened\\source\\repos\\SAEReseaux\\Form1.cs [Conception]",
+              "RelativeToolTip": "Form1.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:33:38.213Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibrairieSAE.csproj",
+              "DocumentMoniker": "C:\\Users\\bened\\source\\repos\\sae reseaux code\\LibrairieSAE.csproj",
+              "RelativeDocumentMoniker": "..\\sae reseaux code\\LibrairieSAE.csproj",
+              "ToolTip": "C:\\Users\\bened\\source\\repos\\sae reseaux code\\LibrairieSAE.csproj",
+              "RelativeToolTip": "..\\sae reseaux code\\LibrairieSAE.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T10:44:25.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bened\\source\\repos\\SAEReseaux\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bened\\source\\repos\\SAEReseaux\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:43:14.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
