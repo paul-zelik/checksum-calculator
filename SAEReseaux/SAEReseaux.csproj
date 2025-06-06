@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\sae reseaux code\LibrairieSAE.csproj" />
+    <ProjectReference Include="..\LibrairieSAE\LibrairieSAE.csproj" />
   </ItemGroup>
 
 </Project>
