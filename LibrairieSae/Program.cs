@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Globalization;
+using System.Linq;
 
 namespace LibrairieSAE
 {
@@ -9,46 +10,47 @@ namespace LibrairieSAE
         // Si estEnteteIP = true, met à zéro les octets 10 et 11 (champ checksum IP)
         public static ushort CalculerChecksum(string trameHexa, bool estEnteteIP = true)
         {
-            Span<byte> octets = stackalloc byte[trameHexa.Length / 2];
-            int octetIndex = 0;
+            // Nettoyage des caractères non-hexa
+            string cleaned = new string(trameHexa.Where(c => !char.IsWhiteSpace(c) && c != '-').ToArray());
 
-            for (int i = 0; i < trameHexa.Length; i++)
+            if (cleaned.Length % 2 != 0)
+                throw new ArgumentException("Trame hexadécimale incomplète.");
+
+            // Conversion en octets
+            byte[] octets = new byte[cleaned.Length / 2];
+            for (int i = 0; i < cleaned.Length; i += 2)
             {
-                if (char.IsWhiteSpace(trameHexa[i]) || trameHexa[i] == '-')
-                    continue;
-
-                if (i + 1 >= trameHexa.Length)
-                    throw new ArgumentException("Trame hexadécimale incomplète.");
-
-                octets[octetIndex++] = byte.Parse(trameHexa.AsSpan(i, 2), NumberStyles.HexNumber);
-                i++;
+                octets[i / 2] = byte.Parse(cleaned.Substring(i, 2), NumberStyles.HexNumber);
             }
 
-            octets = octets.Slice(0, octetIndex);
-
-            // Mise à zéro du champ checksum si c'est un en-tête IP complet
-            if (estEnteteIP && octets.Length >= 12)
+            // Mise à zéro du champ checksum si c'est un en-tête IP
+            if (estEnteteIP && octets.Length >= 20)
             {
                 octets[10] = 0;
                 octets[11] = 0;
             }
 
+            // Calcul du checksum
             uint somme = 0;
             int j = 0;
-
             for (; j + 1 < octets.Length; j += 2)
             {
                 somme += (uint)((octets[j] << 8) | octets[j + 1]);
             }
 
+            // Si impair
             if (j < octets.Length)
-                somme += (uint)(octets[j] << 8); // padding si impair
+                somme += (uint)(octets[j] << 8);
 
+            // Retraitement des dépassements (addition des retenues)
             while ((somme >> 16) != 0)
                 somme = (somme & 0xFFFF) + (somme >> 16);
 
+            // Complément à un
             return (ushort)~somme;
         }
+
+
 
         public static void Main()
         {

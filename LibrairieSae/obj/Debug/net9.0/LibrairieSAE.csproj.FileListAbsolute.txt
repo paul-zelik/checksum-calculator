@@ -12,3 +12,33 @@ C:\Users\bened\source\repos\sae reseaux code\obj\Debug\net9.0\refint\LibrairieSA
 C:\Users\bened\source\repos\sae reseaux code\obj\Debug\net9.0\LibrairieSAE.pdb
 C:\Users\bened\source\repos\sae reseaux code\obj\Debug\net9.0\LibrairieSAE.genruntimeconfig.cache
 C:\Users\bened\source\repos\sae reseaux code\obj\Debug\net9.0\ref\LibrairieSAE.dll
+C:\Users\Noa\source\repos\checksum-calculator\LibrairieSae\bin\Debug\net9.0\LibrairieSAE.exe
+C:\Users\Noa\Source\Repos\checksum-calculator\LibrairieSAE\bin\Debug\net9.0\LibrairieSAE.deps.json
+C:\Users\Noa\Source\Repos\checksum-calculator\LibrairieSAE\bin\Debug\net9.0\LibrairieSAE.runtimeconfig.json
+C:\Users\Noa\source\repos\checksum-calculator\LibrairieSae\bin\Debug\net9.0\LibrairieSAE.dll
+C:\Users\Noa\source\repos\checksum-calculator\LibrairieSae\bin\Debug\net9.0\LibrairieSAE.pdb
+C:\Users\Noa\source\repos\checksum-calculator\LibrairieSae\obj\Debug\net9.0\LibrairieSAE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noa\source\repos\checksum-calculator\LibrairieSae\obj\Debug\net9.0\LibrairieSAE.AssemblyInfoInputs.cache
+C:\Users\Noa\source\repos\checksum-calculator\LibrairieSae\obj\Debug\net9.0\LibrairieSAE.AssemblyInfo.cs
+C:\Users\Noa\source\repos\checksum-calculator\LibrairieSae\obj\Debug\net9.0\LibrairieSAE.csproj.CoreCompileInputs.cache
+C:\Users\Noa\source\repos\checksum-calculator\LibrairieSae\obj\Debug\net9.0\LibrairieSAE.sourcelink.json
+C:\Users\Noa\source\repos\checksum-calculator\LibrairieSae\obj\Debug\net9.0\LibrairieSAE.dll
+C:\Users\Noa\source\repos\checksum-calculator\LibrairieSae\obj\Debug\net9.0\refint\LibrairieSAE.dll
+C:\Users\Noa\source\repos\checksum-calculator\LibrairieSae\obj\Debug\net9.0\LibrairieSAE.pdb
+C:\Users\Noa\Source\Repos\checksum-calculator\LibrairieSAE\obj\Debug\net9.0\LibrairieSAE.genruntimeconfig.cache
+C:\Users\Noa\Source\Repos\checksum-calculator\LibrairieSAE\obj\Debug\net9.0\ref\LibrairieSAE.dll
+C:\Users\polux\OneDrive\Documents\checksum-calculator\LibrairieSae\bin\Debug\net9.0\LibrairieSAE.exe
+C:\Users\polux\OneDrive\Documents\checksum-calculator\LibrairieSae\bin\Debug\net9.0\LibrairieSAE.deps.json
+C:\Users\polux\OneDrive\Documents\checksum-calculator\LibrairieSae\bin\Debug\net9.0\LibrairieSAE.runtimeconfig.json
+C:\Users\polux\OneDrive\Documents\checksum-calculator\LibrairieSae\bin\Debug\net9.0\LibrairieSAE.dll
+C:\Users\polux\OneDrive\Documents\checksum-calculator\LibrairieSae\bin\Debug\net9.0\LibrairieSAE.pdb
+C:\Users\polux\OneDrive\Documents\checksum-calculator\LibrairieSae\obj\Debug\net9.0\LibrairieSAE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polux\OneDrive\Documents\checksum-calculator\LibrairieSae\obj\Debug\net9.0\LibrairieSAE.AssemblyInfoInputs.cache
+C:\Users\polux\OneDrive\Documents\checksum-calculator\LibrairieSae\obj\Debug\net9.0\LibrairieSAE.AssemblyInfo.cs
+C:\Users\polux\OneDrive\Documents\checksum-calculator\LibrairieSae\obj\Debug\net9.0\LibrairieSAE.csproj.CoreCompileInputs.cache
+C:\Users\polux\OneDrive\Documents\checksum-calculator\LibrairieSae\obj\Debug\net9.0\LibrairieSAE.sourcelink.json
+C:\Users\polux\OneDrive\Documents\checksum-calculator\LibrairieSae\obj\Debug\net9.0\LibrairieSAE.dll
+C:\Users\polux\OneDrive\Documents\checksum-calculator\LibrairieSae\obj\Debug\net9.0\refint\LibrairieSAE.dll
+C:\Users\polux\OneDrive\Documents\checksum-calculator\LibrairieSae\obj\Debug\net9.0\LibrairieSAE.pdb
+C:\Users\polux\OneDrive\Documents\checksum-calculator\LibrairieSae\obj\Debug\net9.0\LibrairieSAE.genruntimeconfig.cache
+C:\Users\polux\OneDrive\Documents\checksum-calculator\LibrairieSae\obj\Debug\net9.0\ref\LibrairieSAE.dll

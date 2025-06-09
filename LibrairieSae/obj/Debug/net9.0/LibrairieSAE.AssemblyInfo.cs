@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibrairieSAE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e808911c070d14af3927247493a7e1aaf74698c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibrairieSAE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibrairieSAE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
