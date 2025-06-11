@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SAEReseaux")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e204c3eaa587f8dfca4a2c69e593f24e1f0fd93")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+052756d5e8930c6b67fba169df0962b289e37b83")]
 [assembly: System.Reflection.AssemblyProductAttribute("SAEReseaux")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SAEReseaux")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
