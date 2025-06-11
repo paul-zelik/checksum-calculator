@@ -50,33 +50,32 @@ namespace LibrairieSAE
             return (ushort)~somme;
         }
 
+        public static (string, string) getIpv4(string trameHexa)
+        {
+            // Convertir la chaîne hexadécimale en tableau de bytes
+            byte[] ipHeader = Enumerable.Range(0, trameHexa.Length)
+                .Where(x => x % 2 == 0)
+                .Select(x => Convert.ToByte(trameHexa.Substring(x, 2), 16))
+                .ToArray();
 
+            // Extraire les adresses IP source et destination
+            byte[] sourceIpBytes = new byte[4];
+            byte[] destIpBytes = new byte[4];
+
+            Array.Copy(ipHeader, 12, sourceIpBytes, 0, 4); // Adresse IP source à l'offset 12
+            Array.Copy(ipHeader, 16, destIpBytes, 0, 4);   // Adresse IP destination à l'offset 16
+
+            // Convertir les bytes en adresses IP lisibles
+            string sourceIp = string.Join(".", sourceIpBytes);
+            string destIp = string.Join(".", destIpBytes);
+
+            return (sourceIp, destIp);
+
+        }
 
         public static void Main()
         {
-            Console.WriteLine("Entrez la trame hexadécimale (ex : 45 00 ... ou 9A A5 84 0E) :");
-            string? trame = Console.ReadLine();
-
-            if (string.IsNullOrWhiteSpace(trame))
-            {
-                Console.WriteLine("Trame vide.");
-                return;
-            }
-
-            Console.WriteLine("Est-ce un en-tête IP complet ? (o/n)");
-            string? estEntete = Console.ReadLine();
-
-            bool estEnteteIP = estEntete?.Trim().ToLower() == "o";
-
-            try
-            {
-                ushort checksum = CalculerChecksum(trame, estEnteteIP);
-                Console.WriteLine($"Checksum calculé : 0x{checksum:X4} ({checksum})");
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Erreur : {ex.Message}");
-            }
+            Console.WriteLine("Main Inutile."); // Utile pour le démarage.
         }
     }
 }

@@ -17,8 +17,8 @@
   "libraries": {
     "LibrairieSAE/1.0.0": {
       "type": "project",
-      "path": "../sae reseaux code/LibrairieSAE.csproj",
-      "msbuildProject": "../sae reseaux code/LibrairieSAE.csproj"
+      "path": "../LibrairieSae/LibrairieSAE.csproj",
+      "msbuildProject": "../LibrairieSae/LibrairieSAE.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -27,23 +27,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bened\\.nuget\\packages\\": {},
+    "C:\\Users\\polux\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bened\\source\\repos\\SAEReseaux\\SAEReseaux.csproj",
+      "projectUniqueName": "C:\\Users\\polux\\OneDrive\\Desktop\\checksum-calculator\\SAEReseaux\\SAEReseaux.csproj",
       "projectName": "SAEReseaux",
-      "projectPath": "C:\\Users\\bened\\source\\repos\\SAEReseaux\\SAEReseaux.csproj",
-      "packagesPath": "C:\\Users\\bened\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bened\\source\\repos\\SAEReseaux\\obj\\",
+      "projectPath": "C:\\Users\\polux\\OneDrive\\Desktop\\checksum-calculator\\SAEReseaux\\SAEReseaux.csproj",
+      "packagesPath": "C:\\Users\\polux\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\polux\\OneDrive\\Desktop\\checksum-calculator\\SAEReseaux\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\bened\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\polux\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -52,14 +52,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "projectReferences": {
-            "C:\\Users\\bened\\source\\repos\\sae reseaux code\\LibrairieSAE.csproj": {
-              "projectPath": "C:\\Users\\bened\\source\\repos\\sae reseaux code\\LibrairieSAE.csproj"
+            "C:\\Users\\polux\\OneDrive\\Desktop\\checksum-calculator\\LibrairieSAE\\LibrairieSAE.csproj": {
+              "projectPath": "C:\\Users\\polux\\OneDrive\\Desktop\\checksum-calculator\\LibrairieSAE\\LibrairieSAE.csproj"
             }
           }
         }

@@ -5,7 +5,7 @@ VisualStudioVersion = 17.13.35828.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAEReseaux", "SAEReseaux.csproj", "{8A8EFBD9-9001-4036-B1EE-EF3A87C2E020}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrairieSAE", "..\sae reseaux code\LibrairieSAE.csproj", "{7FCF6655-BB8D-5CA5-DC9D-275FAC273948}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrairieSAE", "..\LibrairieSae\LibrairieSAE.csproj", "{5823B6C8-07BB-1450-4F41-1F23D0426C74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{8A8EFBD9-9001-4036-B1EE-EF3A87C2E020}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A8EFBD9-9001-4036-B1EE-EF3A87C2E020}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A8EFBD9-9001-4036-B1EE-EF3A87C2E020}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7FCF6655-BB8D-5CA5-DC9D-275FAC273948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7FCF6655-BB8D-5CA5-DC9D-275FAC273948}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7FCF6655-BB8D-5CA5-DC9D-275FAC273948}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7FCF6655-BB8D-5CA5-DC9D-275FAC273948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5823B6C8-07BB-1450-4F41-1F23D0426C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5823B6C8-07BB-1450-4F41-1F23D0426C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5823B6C8-07BB-1450-4F41-1F23D0426C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5823B6C8-07BB-1450-4F41-1F23D0426C74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

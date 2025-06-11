@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\polux\\OneDrive\\Documents\\checksum-calculator\\LibrairieSae\\LibrairieSAE.csproj": {}
+    "C:\\Users\\polux\\OneDrive\\Desktop\\checksum-calculator\\LibrairieSae\\LibrairieSAE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\polux\\OneDrive\\Documents\\checksum-calculator\\LibrairieSae\\LibrairieSAE.csproj": {
+    "C:\\Users\\polux\\OneDrive\\Desktop\\checksum-calculator\\LibrairieSae\\LibrairieSAE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\polux\\OneDrive\\Documents\\checksum-calculator\\LibrairieSae\\LibrairieSAE.csproj",
+        "projectUniqueName": "C:\\Users\\polux\\OneDrive\\Desktop\\checksum-calculator\\LibrairieSae\\LibrairieSAE.csproj",
         "projectName": "LibrairieSAE",
-        "projectPath": "C:\\Users\\polux\\OneDrive\\Documents\\checksum-calculator\\LibrairieSae\\LibrairieSAE.csproj",
+        "projectPath": "C:\\Users\\polux\\OneDrive\\Desktop\\checksum-calculator\\LibrairieSae\\LibrairieSAE.csproj",
         "packagesPath": "C:\\Users\\polux\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\polux\\OneDrive\\Documents\\checksum-calculator\\LibrairieSae\\obj\\",
+        "outputPath": "C:\\Users\\polux\\OneDrive\\Desktop\\checksum-calculator\\LibrairieSae\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
